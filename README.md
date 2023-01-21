@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá! Bem-vindo ao meu perfil
+
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonED&layout=compact&theme=radical)
+
 
 <!--
 **AlissonED/AlissonED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
